@@ -1,0 +1,15 @@
+{
+  "name": "file-sharing",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "robotjs": "^0.6.0",
+    "socket.io": "^4.8.1"
+  }
+}
+ 
